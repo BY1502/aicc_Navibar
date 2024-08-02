@@ -1,3 +1,6 @@
+#AICC 08.02 까지 업데이트
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
