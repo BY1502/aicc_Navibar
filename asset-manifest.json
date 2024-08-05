@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/aicc_Navibar/static/css/main.b7d06c16.css",
-    "main.js": "/aicc_Navibar/static/js/main.af10a684.js",
+    "main.css": "/aicc_Navibar/static/css/main.08d347e3.css",
+    "main.js": "/aicc_Navibar/static/js/main.0e16a49b.js",
     "static/media/video2.mp4": "/aicc_Navibar/static/media/video2.dccb45b33221101723b1.mp4",
     "static/media/video1.mp4": "/aicc_Navibar/static/media/video1.c57aaad094fcda3e06fe.mp4",
     "static/media/code.jpg": "/aicc_Navibar/static/media/code.fea6cf7433b105d6e874.jpg",
@@ -12,11 +12,11 @@
     "static/media/user5.jpg": "/aicc_Navibar/static/media/user5.921947eccae648403fd7.jpg",
     "static/media/user4.jpg": "/aicc_Navibar/static/media/user4.b3a5b044617d336fd8f2.jpg",
     "index.html": "/aicc_Navibar/index.html",
-    "main.b7d06c16.css.map": "/aicc_Navibar/static/css/main.b7d06c16.css.map",
-    "main.af10a684.js.map": "/aicc_Navibar/static/js/main.af10a684.js.map"
+    "main.08d347e3.css.map": "/aicc_Navibar/static/css/main.08d347e3.css.map",
+    "main.0e16a49b.js.map": "/aicc_Navibar/static/js/main.0e16a49b.js.map"
   },
   "entrypoints": [
-    "static/css/main.b7d06c16.css",
-    "static/js/main.af10a684.js"
+    "static/css/main.08d347e3.css",
+    "static/js/main.0e16a49b.js"
   ]
 }
